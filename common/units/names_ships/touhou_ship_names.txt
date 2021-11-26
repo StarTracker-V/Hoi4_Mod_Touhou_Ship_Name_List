@@ -1,4 +1,4 @@
-#th1.0
+#th1
 TOUHOU_HRTP_NAME = {
 	name = NAME_TOUHOU_HRTP
 
@@ -10,7 +10,7 @@ TOUHOU_HRTP_NAME = {
 	}
 }
 
-#th2.0
+#th2
 TOUHOU_SOEW_NAME = {
 	name = NAME_TOUHOU_SOEW
 
@@ -22,7 +22,7 @@ TOUHOU_SOEW_NAME = {
 	}
 }
 
-#th3.0
+#th3
 TOUHOU_PODD_NAME = {
 	name = NAME_TOUHOU_PODD
 
@@ -34,7 +34,7 @@ TOUHOU_PODD_NAME = {
 	}
 }
 
-#th4.0
+#th4
 TOUHOU_LLS_NAME = {
 	name = NAME_TOUHOU_LLS
 
@@ -46,7 +46,7 @@ TOUHOU_LLS_NAME = {
 	}
 }
 
-#th5.0
+#th5
 TOUHOU_MS_NAME = {
 	name = NAME_TOUHOU_MS
 
@@ -58,7 +58,7 @@ TOUHOU_MS_NAME = {
 	}
 }
 
-#th6.0
+#th6
 TOUHOU_EOSD_NAME = {
 	name = NAME_TOUHOU_EOSD
 
@@ -70,7 +70,7 @@ TOUHOU_EOSD_NAME = {
 	}
 }
 
-#th7.0
+#th7
 TOUHOU_PCB_NAME = {
 	name = NAME_TOUHOU_PCB
 
@@ -83,7 +83,7 @@ TOUHOU_PCB_NAME = {
 	}
 }
 
-#th8.0
+#th8
 TOUHOU_IN_NAME = {
 	name = NAME_TOUHOU_IN
 
@@ -95,7 +95,7 @@ TOUHOU_IN_NAME = {
 	}
 }
 
-#th9.0
+#th9
 TOUHOU_POFV_NAME = {
 	name = NAME_TOUHOU_POFV
 
@@ -107,7 +107,7 @@ TOUHOU_POFV_NAME = {
 	}
 }
 
-#th10.0
+#th10
 TOUHOU_MOF_NAME = {
 	name = NAME_TOUHOU_MOF
 
@@ -119,7 +119,7 @@ TOUHOU_MOF_NAME = {
 	}
 }
 
-#th11.0
+#th11
 TOUHOU_SA_NAME = {
 	name = NAME_TOUHOU_SA
 
@@ -131,7 +131,7 @@ TOUHOU_SA_NAME = {
 	}
 }
 
-#th12.0
+#th12
 TOUHOU_UFO_NAME = {
 	name = NAME_TOUHOU_UFO
 
@@ -143,7 +143,7 @@ TOUHOU_UFO_NAME = {
 	}
 }
 
-#th13.0
+#th13
 TOUHOU_TD_NAME = {
 	name = NAME_TOUHOU_TD
 
@@ -155,7 +155,7 @@ TOUHOU_TD_NAME = {
 	}
 }
 
-#th14.0
+#th14
 TOUHOU_DDC_NAME = {
 	name = NAME_TOUHOU_DDC
 
@@ -167,7 +167,7 @@ TOUHOU_DDC_NAME = {
 	}
 }
 
-#th15.0
+#th15
 TOUHOU_LOLK_NAME = {
 	name = NAME_TOUHOU_LOLK
 
@@ -179,7 +179,7 @@ TOUHOU_LOLK_NAME = {
 	}
 }
 
-#th16.0
+#th16
 TOUHOU_HSIFS_NAME = {
 	name = NAME_TOUHOU_HSIFS
 
@@ -191,7 +191,7 @@ TOUHOU_HSIFS_NAME = {
 	}
 }
 
-#th17.0
+#th17
 TOUHOU_WBAWC_NAME = {
 	name = NAME_TOUHOU_WBAWC
 
@@ -203,7 +203,7 @@ TOUHOU_WBAWC_NAME = {
 	}
 }
 
-#th18.0
+#th18
 TOUHOU_UM_NAME = {
 	name = NAME_TOUHOU_UM
 
@@ -215,7 +215,7 @@ TOUHOU_UM_NAME = {
 	}
 }
 
-#th98.0
+#th98
 TOUHOU_ALLPC98_NAME = {
 	name = NAME_TOUHOU_ALLPC98
 
@@ -230,7 +230,7 @@ TOUHOU_ALLPC98_NAME = {
 	}
 }
 
-#th99.0
+#th99
 TOUHOU_ALLWIN_NAME = {
 	name = NAME_TOUHOU_ALLWIN
 
@@ -238,7 +238,7 @@ TOUHOU_ALLWIN_NAME = {
 
 	#fallback_name = "Touhou ALLWIN %d"
 	unique = {
-		"Reimu" "Marisa" "Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" "Letty" 
+		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" "Letty" 
 		"Chen" "Alice" "LilyWhite" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" "Yukari" 
 		"Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" "Aya" "Medicine" 
 		"Yuuka" "Komachi" "Eiki" "Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" "Sanae" "Kanako" 
@@ -247,13 +247,14 @@ TOUHOU_ALLWIN_NAME = {
 		"Futo" "Miko" "Mamizou" "Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru" 
 		"Raiko" "Seiran" "Ringo" "Doremy" "Sagume" "ClownPiece" "Junko" "Hecatia" "Larva" "Nemuno" 
 		"Aunn" "Narumi" "Mai(Teireida)" "Satono" "Okina" "Eika" "Urumi" "Kutaka" "Yachie" "Mayumi" 
-		"Keiki" "Saki" "Mike" "Takane" "Sannyo" "Suika" "Iku" "Tenshi" "Hatate" "Sunny" 
-		"Luna" "Star" "Kokoro" "Kasen" "Sumireko" "Joon" "Shion" "Yorihime" "Toyohime" "Reisen(Moon)" 
-		"Renko" "Maribel" "Rinnosuke" "Akyuu" "Kosuzu" "Miyoi" 
+		"Keiki" "Saki" "Mike" "Takane" "Sannyo" "Misumaru" "Tsukasa" "Megumu" "Chimata" "Momoyo" 
+		"Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro" "Kasen" "Sumireko" 
+		"Joon" "Shion" "Yorihime" "Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" "Akyuu" "Kosuzu" 
+		"Miyoi" "Yuuma" 
 	}
 }
 
-#th100.0
+#th100
 TOUHOU_SPO_NAME = {
 	name = NAME_TOUHOU_SPO
 
@@ -262,11 +263,11 @@ TOUHOU_SPO_NAME = {
 	#fallback_name = "Touhou SPO %d"
 	unique = {
 		"Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro" "Kasen" "Sumireko" 
-		"Joon" "Shion" 
+		"Joon" "Shion" "Yuuma" 
 	}
 }
 
-#th101.0
+#th101
 TOUHOU_PW_NAME = {
 	name = NAME_TOUHOU_PW
 
@@ -278,7 +279,7 @@ TOUHOU_PW_NAME = {
 	}
 }
 
-#th102.0
+#th102
 TOUHOU_TOUHOU_NAME = {
 	name = NAME_TOUHOU_TOUHOU
 
@@ -298,9 +299,10 @@ TOUHOU_TOUHOU_NAME = {
 		"Seiga" "Tojiko" "Futo" "Miko" "Mamizou" "Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" 
 		"Seija" "Shinmyoumaru" "Raiko" "Seiran" "Ringo" "Doremy" "Sagume" "ClownPiece" "Junko" "Hecatia" 
 		"Larva" "Nemuno" "Aunn" "Narumi" "Mai(Teireida)" "Satono" "Okina" "Eika" "Urumi" "Kutaka" 
-		"Yachie" "Mayumi" "Keiki" "Saki" "Mike" "Takane" "Sannyo" "Suika" "Iku" "Tenshi" 
-		"Hatate" "Sunny" "Luna" "Star" "Kokoro" "Kasen" "Sumireko" "Joon" "Shion" "Yorihime" 
-		"Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" "Akyuu" "Kosuzu" "Miyoi" 
+		"Yachie" "Mayumi" "Keiki" "Saki" "Mike" "Takane" "Sannyo" "Misumaru" "Tsukasa" "Megumu" 
+		"Chimata" "Momoyo" "Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro" 
+		"Kasen" "Sumireko" "Joon" "Shion" "Yorihime" "Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" 
+		"Akyuu" "Kosuzu" "Miyoi" "Yuuma" 
 	}
 }
 
