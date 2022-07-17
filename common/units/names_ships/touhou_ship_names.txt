@@ -250,7 +250,7 @@ TOUHOU_ALLWIN_NAME = {
 		"Keiki" "Saki" "Mike" "Takane" "Sannyo" "Misumaru" "Tsukasa" "Megumu" "Chimata" "Momoyo" 
 		"Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro" "Kasen" "Sumireko" 
 		"Joon" "Shion" "Yorihime" "Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" "Akyuu" "Kosuzu" 
-		"Miyoi" "Yuuma" 
+		"Miyoi" "Yuuma" "Mizuchi"
 	}
 }
 
@@ -275,7 +275,7 @@ TOUHOU_PW_NAME = {
 
 	#fallback_name = "Touhou PW %d"
 	unique = {
-		"Yorihime" "Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" "Akyuu" "Kosuzu" "Miyoi" 
+		"Yorihime" "Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" "Akyuu" "Kosuzu" "Miyoi" "Mizuchi"
 	}
 }
 
@@ -302,7 +302,7 @@ TOUHOU_TOUHOU_NAME = {
 		"Yachie" "Mayumi" "Keiki" "Saki" "Mike" "Takane" "Sannyo" "Misumaru" "Tsukasa" "Megumu" 
 		"Chimata" "Momoyo" "Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro" 
 		"Kasen" "Sumireko" "Joon" "Shion" "Yorihime" "Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" 
-		"Akyuu" "Kosuzu" "Miyoi" "Yuuma" 
+		"Akyuu" "Kosuzu" "Miyoi" "Yuuma" "Mizuchi"
 	}
 }
 

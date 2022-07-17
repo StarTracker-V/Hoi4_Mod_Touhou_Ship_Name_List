@@ -16,7 +16,7 @@ Compatible game version 1.11.*
 
 Not affect saved games.
 
-The Mod's version is 1.0.5
+The Mod's version is 1.0.6
 
 
 
@@ -25,7 +25,7 @@ The Mod's version is 1.0.5
 - Touhou_ship_names_l_english.yml
 
 ### Details:
-- 153 unique character names include all Touhou1 - Touhou18 + some non canon character names.
+- 155 unique character names include all Touhou1 - Touhou18 + some non canon character names.
 - Mostly are group by their first appearance in game.
 - First name only.
 - Available Lists: Touhou1 - Touhou18, All PC-98, All windows, All official Spin-Off games, Print work characters,All Touhou and Inaba (Tewi and Reisen the rest is Inaba [number] (fallback name))  
